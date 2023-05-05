@@ -1,0 +1,248 @@
+.Title{
+  background-color: #1B1A17;
+
+  position:fixed;
+  height: 80px;
+  width: 100%;
+  top: 0px;
+}
+
+
+
+.MANITlogo{
+  width: 3%;
+  position: absolute;
+  left: 7%;
+  top:15%;
+
+}
+
+.ecelllogo{
+  width: 3%;
+  position: absolute;
+  right: 14%;
+  top:15%;
+}
+
+
+
+.heading{
+
+  font-family: 'Libre Baskerville', serif;
+  color: white;
+  position: absolute;
+  left: 12%;
+  text-shadow: 2px 2px 3px #FF8400;
+
+  display: inline-block;
+}
+
+h3{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  position: absolute;
+  display: inline-block;
+  right: 91px;
+}
+
+body {
+  margin: 0;
+  font-family: 'Libre Baskerville', serif;
+  background-color: #AEC2B6;
+
+  background-image: url(nasa-Q1p7bh3SHj8-unsplash.jpg);
+
+  background-size: cover;
+}
+
+
+
+.container{
+  width: 300px;
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+}
+
+.section-div{
+  position: absolute;
+  top: 120px;
+  left: 350px;
+
+}
+
+.main-heading{
+  color: #FF6000;
+
+  font-family: 'Russo One', sans-serif;
+  font-size: 90px;
+  margin-bottom: 0;
+  letter-spacing: 3px;
+  text-shadow: 1px 1px 0px white;
+}
+
+
+
+.sub-heading{
+  padding-left: 360px;
+  padding-right: 40px;
+  margin-top: 20px;
+  color: white;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+  position: absolute;
+  top: 400px;
+  left: 45%;
+
+}
+
+.Registerbutton{
+  width: 20%;
+  margin-top: 600px;
+  margin-left: 500px;
+}
+
+.Register{
+  background-color: #FF8400;
+  position: absolute;
+  margin-top: 600px;
+  margin-left: 580px;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+}
+
+.Register:hover{
+  background-color: orange;
+}
+
+.reg{
+  text-decoration: none;
+  color: white;
+  background-color: #F45050;
+  padding: 7px 7px;
+}
+
+
+.para1{
+  margin-top: 0px;
+  padding: 20px 20px;
+}
+
+.AboutE-cell{
+  margin-top: 600px;
+}
+
+form{
+  background-color: #F6F1E9;
+  width: 40%;
+  margin: auto;
+}
+
+input[type=text], input[type=password], input[type=email], input[type=number]{
+  width: 100%;
+  padding: 10px 10px;
+  margin: 10px 0;
+  display: inline-block;
+  border: 0px solid #ccc;
+  box-sizing: content-box;
+}
+
+
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+
+  width: 100px;
+  margin: 10px;
+}
+
+button:hover {
+  opacity: 0.7;
+}
+
+
+
+
+.imgcontainer {
+  text-align: center;
+  margin: 100px 0 12px 0;
+
+
+}
+
+img.avatar {
+  width: 8%;
+  padding-top: 50px;
+
+}
+
+.III{
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  padding: 15px;
+  display: block;
+
+}
+
+.section{
+
+  background-color: black;
+  width: 100%;
+  position: absolute;
+  top: 800px;
+}
+
+.divsec{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+  width: 50%;
+  padding-bottom: 30px;
+}
+
+.bottom{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+  width: 50%;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+}
+
+
+.socials{
+
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+    align-content: center;
+    margin: auto;
+    max-width: 700px;
+}
+
+.socials{
+  width: 2.0rem;
+    height: 2.0rem;
+}
+}
